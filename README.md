@@ -16,6 +16,7 @@
 
 `resume` · `cv` · `job-search` · `jd-analysis` · `ats` · `chatgpt` · `prompt-engineering` · `ai-skill` · `china`
 
+- [简历大师 ResumeMaster](https://markmiller1.github.io/resume-master/) — 永久免费的纯前端在线简历生成器（数据本地保存、ATS 检测、64 个免费页面）
 ## 适用人群
 
 | 你是谁 | 这个 Skill 能帮什么 |
